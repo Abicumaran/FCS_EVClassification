@@ -11,5 +11,9 @@ The ImportFCS_code.R and a sample raw FCS counts spectrum (420_FCS_30s_001.fcs) 
 For the Quantum CNN, refer to the code provided in:
 https://github.com/KinshukSengupta/qml-toolkit/blob/master/QNN_CT_COVID_dataset.ipynb 
 
+Our paper has now been published in Neural Computing and Applications:
+
+Uthamacumaran, A., Abdouh, M., Sengupta, K. et al. Machine intelligence-driven classification of cancer patients-derived extracellular vesicles using fluorescence correlation spectroscopy: results from a pilot study. Neural Comput & Applic (2022). https://doi.org/10.1007/s00521-022-08113-4
+
 
 
